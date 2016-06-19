@@ -1,0 +1,8 @@
+D:\Test\Fizz\Fizz\bin\Debug\Fizz.exe.config
+D:\Test\Fizz\Fizz\bin\Debug\Fizz.exe
+D:\Test\Fizz\Fizz\bin\Debug\Fizz.pdb
+D:\Test\Fizz\Fizz\obj\Debug\Fizz.csprojResolveAssemblyReference.cache
+D:\Test\Fizz\Fizz\obj\Debug\Fizz.exe
+D:\Test\Fizz\Fizz\obj\Debug\Fizz.pdb
+D:\Test\Fizz\Fizz\bin\Debug\FizzBuzzLib.dll
+D:\Test\Fizz\Fizz\bin\Debug\FizzBuzzLib.pdb

@@ -1,0 +1,11 @@
+c:\users\micha\documents\visual studio 2015\Projects\FizzBuzzWinUI\FizzBuzzWinUI\bin\Debug\FizzBuzzWinUI.exe.config
+c:\users\micha\documents\visual studio 2015\Projects\FizzBuzzWinUI\FizzBuzzWinUI\obj\Debug\FizzBuzzWinUI.csprojResolveAssemblyReference.cache
+c:\users\micha\documents\visual studio 2015\Projects\FizzBuzzWinUI\FizzBuzzWinUI\obj\Debug\FizzBuzzWinUI.FBWinUI.resources
+c:\users\micha\documents\visual studio 2015\Projects\FizzBuzzWinUI\FizzBuzzWinUI\obj\Debug\FizzBuzzWinUI.Properties.Resources.resources
+c:\users\micha\documents\visual studio 2015\Projects\FizzBuzzWinUI\FizzBuzzWinUI\obj\Debug\FizzBuzzWinUI.csproj.GenerateResource.Cache
+c:\users\micha\documents\visual studio 2015\Projects\FizzBuzzWinUI\FizzBuzzWinUI\bin\Debug\FizzBuzzWinUI.exe
+c:\users\micha\documents\visual studio 2015\Projects\FizzBuzzWinUI\FizzBuzzWinUI\bin\Debug\FizzBuzzWinUI.pdb
+c:\users\micha\documents\visual studio 2015\Projects\FizzBuzzWinUI\FizzBuzzWinUI\obj\Debug\FizzBuzzWinUI.exe
+c:\users\micha\documents\visual studio 2015\Projects\FizzBuzzWinUI\FizzBuzzWinUI\obj\Debug\FizzBuzzWinUI.pdb
+c:\users\micha\documents\visual studio 2015\Projects\FizzBuzzWinUI\FizzBuzzWinUI\bin\Debug\FizzBuzzLib.dll
+c:\users\micha\documents\visual studio 2015\Projects\FizzBuzzWinUI\FizzBuzzWinUI\bin\Debug\FizzBuzzLib.pdb

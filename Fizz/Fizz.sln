@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fizz", "Fizz\Fizz.csproj", "{C5F44283-40F8-4BED-8B1D-9AE9BD8CD685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzLib", "FizzBuzzLib\FizzBuzzLib.csproj", "{16866366-2CCB-4DF9-8728-E58D98A090FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzTest", "FizzTest\FizzTest.csproj", "{A80A451D-89EA-44F0-8310-FFF65847B785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F44283-40F8-4BED-8B1D-9AE9BD8CD685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F44283-40F8-4BED-8B1D-9AE9BD8CD685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F44283-40F8-4BED-8B1D-9AE9BD8CD685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F44283-40F8-4BED-8B1D-9AE9BD8CD685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16866366-2CCB-4DF9-8728-E58D98A090FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16866366-2CCB-4DF9-8728-E58D98A090FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16866366-2CCB-4DF9-8728-E58D98A090FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16866366-2CCB-4DF9-8728-E58D98A090FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80A451D-89EA-44F0-8310-FFF65847B785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80A451D-89EA-44F0-8310-FFF65847B785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80A451D-89EA-44F0-8310-FFF65847B785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80A451D-89EA-44F0-8310-FFF65847B785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

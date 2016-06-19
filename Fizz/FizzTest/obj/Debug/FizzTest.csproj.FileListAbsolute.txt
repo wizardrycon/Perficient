@@ -1,0 +1,8 @@
+D:\Test\Fizz\FizzTest\bin\Debug\FizzTest.dll
+D:\Test\Fizz\FizzTest\bin\Debug\FizzTest.pdb
+D:\Test\Fizz\FizzTest\bin\Debug\FizzBuzzLib.dll
+D:\Test\Fizz\FizzTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Test\Fizz\FizzTest\bin\Debug\FizzBuzzLib.pdb
+D:\Test\Fizz\FizzTest\obj\Debug\FizzTest.csprojResolveAssemblyReference.cache
+D:\Test\Fizz\FizzTest\obj\Debug\FizzTest.dll
+D:\Test\Fizz\FizzTest\obj\Debug\FizzTest.pdb
